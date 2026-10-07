@@ -1,0 +1,1 @@
+{"name":"card-studio-handoff","private":true,"version":"1.0.0","scripts":{"serve":"node qa/server.cjs","test":"node qa/fixed-tests.cjs"},"devDependencies":{"playwright":"1.56.1"}}
